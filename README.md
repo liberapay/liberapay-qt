@@ -1,2 +1,2 @@
-# liberapay-ios
-The iOS application for Liberapay
+# liberapay-qt
+The Qt application for Liberapay
